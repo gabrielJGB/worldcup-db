@@ -1,0 +1,20 @@
+{
+    "message": "Usá parámetros de consulta para filtrar resultados. Para devolver todos los datos, agrega el filtro ?all=true",
+    "example": "/api/teams?key_id=valor",
+    "available_filters": [
+        "key_id",
+        "team_id",
+        "team_name",
+        "team_code",
+        "mens_team",
+        "womens_team",
+        "federation_name",
+        "region_name",
+        "confederation_id",
+        "confederation_name",
+        "confederation_code",
+        "mens_team_wikipedia_link",
+        "womens_team_wikipedia_link",
+        "federation_wikipedia_link"
+    ]
+}
